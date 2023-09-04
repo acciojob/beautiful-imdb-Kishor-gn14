@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+img{
+    height: 400px;
+    width: 700px;
+}
+p{
+    position: fixed;
+    top: 400px;
+    width: auto;
+    text-align: justify;
+    font-size: 17px;
+}
